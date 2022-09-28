@@ -3,14 +3,9 @@
 
 <p align="center">
   <img style="border:5px solid black;" src="./rodovia.jpg"/ width="800" height="300>
-</p>
-
-
-
-
-
-
-## <center>Analisando os acidentes nas rodovias federais do Brasil em 2021</center>
+</p></center>
+                                                                                
+Analisando os acidentes nas rodovias federais do Brasil em 2021                                                        
 
 Nota: Esse, é meu primeiro projeto iniciando no mundo da Análise de Dados. |
 ---------------------------------------------------------------------------|
